@@ -1,4 +1,4 @@
-# FACE Recognition coursework
+# FACE Recognition CourseWork
 
 ## TODO//::
 
